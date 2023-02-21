@@ -1,0 +1,20 @@
+* {
+    background-color: black;
+    color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    width: auto;
+    height: 200px;
+}
+
+.title {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 4vw;
+}
+
+ul {
+    list-style-type: square;
+}
